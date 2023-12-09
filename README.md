@@ -20,4 +20,9 @@ The code will then convert the .clr file to a preferences.json based on the temp
 
 You can then place your .json file in `~/.config/IVAO/Aurora/Settings/Profiles`. This will then appear in the profiles tab in Aurora macOS.
 
+## Screenshots
 
+![EGLF](https://github.com/isaacbarker/ivaomacoscolours/assets/88422596/b5c3e666-9a8c-4952-9b09-c8f2ac9aa9d6)
+![IFACTS](https://github.com/isaacbarker/ivaomacoscolours/assets/88422596/34107482-585d-469d-917e-b761f39e2ca0)
+![NOVA9000](https://github.com/isaacbarker/ivaomacoscolours/assets/88422596/ccff190c-eeb8-4b27-a542-0f52d84525d1)
+![NODES](https://github.com/isaacbarker/ivaomacoscolours/assets/88422596/383993ec-2785-47ab-bd7f-a11cfc3cff7c)
