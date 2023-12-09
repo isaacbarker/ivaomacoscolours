@@ -1,0 +1,107 @@
+{
+    "palette": {},
+    "radar": {
+        "psrRange": {
+          "horizontal": 20,
+          "ceiling": 10000,
+          "floor": -200
+        },
+        "ssrRange": {
+          "horizontal": 20,
+          "ceiling": 10000,
+          "floor": -200
+        },
+        "rangeRingDistance": 10,
+        "vectoringTConfiguration": {
+          "centreLineLength": 10,
+          "approachGatesDistance": 5,
+          "interceptDistance": 2,
+          "interceptAngle": 0,
+          "baseLegDistance": 1
+        },
+        "zoomSpeed": 1,
+        "zoomCenter": false,
+        "zoomRange": true,
+        "hiddenNavaids": [],
+        "hiddenGeoAreas": []
+      },
+      "mainScope": {
+        "showPrefBar": true,
+        "showPrefsInset": true,
+        "showPrefsTraffic": true,
+        "showPrefsGeo": true,
+        "showPrefsNav": true,
+        "visibleLayers": {
+          "VOR": true,
+          "NDB": false,
+          "FIX": false,
+          "MRVA": true,
+          "ARTCC": true,
+          "ARTCCHIGH": false,
+          "ARTCCLOW": true,
+          "AIRWAYHIGH": false,
+          "AIRWAYLOW": false,
+          "AIRWAYLABEL": false,
+          "ATCPOSITION": true,
+          "RANGERINGS": false,
+          "COAST": true,
+          "PIER": true,
+          "BUILDING": true,
+          "VECTORINGTS": true,
+          "STOPLINE": true,
+          "POLYLINE": true,
+          "RUNWAYCENTER": true,
+          "GATES": true,
+          "AIRPORT": false,
+          "RUNWAY": true,
+          "TAXILABELS": true,
+          "VRP": false,
+          "DEFA": true,
+          "RESTRICTED": true,
+          "TAXIWAY": true,
+          "TAXIWAYCENTER": true,
+          "OWNATCPOSITION": false,
+          "HS": false,
+          "DANGER": true,
+          "PROHIBITED": true,
+          "APRON": true
+        }
+      },
+      "traffic": {
+        "speedVectorMinutes": 0,
+        "vfrSquawk": 7000,
+        "trafficRingDistance": 0.2,
+        "transitionAltitude": 6000,
+        "transitionLevel": 7000,
+        "responseTime": 2,
+        "historyCount": 4,
+        "historyIntervalSeconds": 4,
+        "refreshRate": 2
+      },
+      "audioNotifications": {
+        "notifyOnAtcMessage": true,
+        "notifyOnBayRequest": false,
+        "notifyOnBroadcastMessage": false,
+        "notifyOnPrivateMessage": true,
+        "notifyOnDatalink": true,
+        "notifyOnGuardMessage": true,
+        "notifyOnHandoffApproved": true,
+        "notifyOnHandoffRequested": true,
+        "notifyOnRadioPrimaryMessage": true,
+        "notifyOnRadioMessage": false,
+        "notifyOnTrafficAlert": true,
+        "notifyOnWallopRequest": true
+      },
+      "communication": {
+        "frequencyCount": 3,
+        "autoAcceptTransfer": false,
+        "clearLabelsOnRelease": true,
+        "releaseMessage": "NoVoice",
+        "transferMessage": "NoVoice",
+        "transferAcceptMessage": false
+      },
+      "showInfoLine": true,
+      "multiQdm": false,
+      "calculateQdmTurns": true,
+      "enableVera": false
+}
